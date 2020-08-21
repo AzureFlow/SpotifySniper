@@ -16,7 +16,7 @@ SpotifySniper uses a [man-in-the-middle attack](https://en.wikipedia.org/wiki/Ma
 
 To make SpotifySniper run on startup simply add a shortcut from `SpotifySniper.exe` to `%AppData%\Microsoft\Windows\Start Menu\Programs\Startup`. It's a planned feature to automatically setup run on startup however it's unlikely.
 
-## Support:
+## Support
 
 This project is provided "as is" and without support. **Warning:** Blocking Spotify ads is against the [EULA](https://www.spotify.com/us/legal/end-user-agreement/#s9) and may result in your account being terminated.
 
